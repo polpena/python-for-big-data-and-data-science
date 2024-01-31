@@ -1,0 +1,1 @@
+print("Prokopenia Polina, KN-6")
